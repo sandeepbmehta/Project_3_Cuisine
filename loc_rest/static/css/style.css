@@ -1,0 +1,26 @@
+.navbar-header {
+    background: aqua;
+    color: black;
+};
+
+.h5 {
+    font-size: 10px;
+    color: black;
+};
+
+.extra-marker {
+    /* background: url("../img/markers_default.png") no-repeat 0 0; */
+    width: 35px;
+    height: 46px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    text-align: center
+  }
+  
+  .extra-marker-shadow {
+    /* background: url("../img/markers_shadow.png") no-repeat 0 0; */
+    width: 36px;
+    height: 16px
+  }
